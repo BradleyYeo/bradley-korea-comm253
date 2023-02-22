@@ -31,4 +31,6 @@ function App() {
   )
 }
 
+function pictureCaption(img) {}
+
 export default App
